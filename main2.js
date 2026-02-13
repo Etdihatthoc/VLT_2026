@@ -52,8 +52,8 @@ const sadCat = [
 const blackmail = [
   "Xin em đồng ý điii mòooo 🥺",
   "Anh nài nỉ em đóaaa bé yêu ơiii 💕",
-  "Đừng làm tan nát trái tim anh nhaa 💔",
-  "Em làm anh buồn quáaaa điii 😢",
+  "Đừng làm bùn mòooooo 💔",
+  "Anh buồn quáaaa điii 😢",
   "Làm ơn mà emmmm 🌹",
   "Nói đồng ý điii emmmm 💝",
   "Anh sẽ vui lắmmm nếu em đồng ý nèee 😊",
@@ -117,7 +117,7 @@ function ly2() {
   const wedate = document.getElementById("wedate");
   const btns = document.getElementById("btns");
   btns.style.display = "none";
-  wedate.innerHTML = "Yayyyy! Em đã đồng ý rồiii! 💕✨<br><br>Lịch Trình Valentine Của Chúng Mình Nèee 💝<br><br>🌹 9:00 Sáng - Em sẽ nhận được một bông hoa xinh xinh đóaaa<br>🎁 2:00 Chiều - Một món quà đặc biệt đang chờ em nè hihi<br>🎬 9:00 Tối - Cùng xem phim online với nhauuuu<br><br>Anh mong chờ được ăn mừng cùng em lắmmm! 😘💕";
+  wedate.innerHTML = "Yayyyy! Em đã đồng ý rồiii! 💕✨<br><br>Lịch Trình Valentine Của Chúng Mình Nèee 💝<br><br>🌹 9:00 Sáng - Em sẽ nhận được bó bông hoa xinh xinh đóaaa<br>🎁 2:00 Chiều - Một món quà đặc biệt đang chờ em nè hihi<br>🎬 9:00 Tối - Cùng xem phim online với nhauuuu<br><br>Anh mong chờ được đón VLT cùng em lắmmm! 😘💕";
   wedate.style.fontSize = "2.5vmin";
   wedate.style.lineHeight = "1.6";
 
